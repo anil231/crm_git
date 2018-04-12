@@ -1,0 +1,82 @@
+
+<CrmAccountData>
+	<accountdata id="set1">
+	
+		<username>admin</username>
+		<password>admin</password>
+		<accountUserName>Test User</accountUserName>
+		<accountPhoneNumber>9876543210</accountPhoneNumber>
+		<accountEmail>Testuser@abc.com</accountEmail>
+		<accountWebsite>www.espocrm.com</accountWebsite>
+		<accountStreet>Mehidipatnam</accountStreet>
+		<accountCity>Hyderabad</accountCity>
+		<accountState>Telangana</accountState>
+		<accountPostalCode>500006</accountPostalCode>
+		<accountCountry>India</accountCountry>
+		
+		<accountSStreet>Tallagadda</accountSStreet>
+		<accountSCity>Hyd</accountSCity>
+		<accountSState>Ap</accountSState>
+		<accountSPostalCode>500067</accountSPostalCode>
+		<accountSCountry>US</accountSCountry>
+		
+		<contactFirstName>Ramesh</contactFirstName>
+		<contactLastName>Suresh</contactLastName>
+		<contactEmail>abc@xyz.com</contactEmail>
+		<contactPhoneNumber>7894661230</contactPhoneNumber>
+		<contactStreet>karwan</contactStreet>
+		<contactCity>Hyderabad</contactCity>
+		<contactState>Telangana</contactState>
+		<contactPostalCode>500028</contactPostalCode>
+		<contactCountry>India</contactCountry>
+		<contactDescription>Hello</contactDescription>
+		
+		<contactRFirstName>Dinesh</contactRFirstName>
+		<contactRLastName>Rajesh</contactRLastName>
+		<contactREmail>123@abc.com</contactREmail>
+		<contactRPhoneNumber>7896321450</contactRPhoneNumber>
+		<contactRStreet>Attapur</contactRStreet>
+		<contactRCity>Secunderabad</contactRCity>
+		<contactRState>Karnataka</contactRState>  
+		<contactRPostalCode>500055</contactRPostalCode>
+		<contactRCountry>Africa</contactRCountry>
+		<contactRDescription>Hello World</contactRDescription>
+		
+		<leadFirstName>Virendar</leadFirstName>
+		<leadLastName>Sehwag</leadLastName>
+		<leadAccountName>Sundar</leadAccountName>
+		<leadEmail>abcdef@1234.com</leadEmail>
+		<leadPhoneNumber>9988776655</leadPhoneNumber>
+		<leadTitle>Hello Testing Team</leadTitle>
+		<leadStreet>Jafferguda</leadStreet>
+		<leadCity>Hyderabad</leadCity>
+		<leadState>Telangana</leadState>
+		<leadPostalCode>500030</leadPostalCode>
+		<leadCountry>India</leadCountry>
+		<leadWebsite>www.yahoo.com</leadWebsite>
+		<leadOpportunityAmount>$100.00</leadOpportunityAmount>
+		<leadDescription>Hello Team</leadDescription>
+		
+		<entityName>Stephen Hawking</entityName>
+		<entityType>BasePlus</entityType>
+		<entityLabelSingular>Welcome to the world</entityLabelSingular>
+		<entityLabelPlural>Selenium World</entityLabelPlural>
+		
+		<caseName>Shikhar</caseName>
+		<caseStatus>Pending</caseStatus>
+		<casePriority>High</casePriority>
+		<caseType>Incident</caseType>
+		<caseDescription>Iam in case description</caseDescription>
+		
+		<opportunityName>TigerWood</opportunityName>
+		<opportunityStage>Qualification</opportunityStage>
+		<opportunityAmount>100$</opportunityAmount>
+		<opportunityProbability>5</opportunityProbability>
+		<opportunityLeadSource>Email</opportunityLeadSource>
+		<opportunityDescription>Iam in opportunity description</opportunityDescription>
+		
+	</accountdata>
+	
+	
+</CrmAccountData>
+

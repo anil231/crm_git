@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [ My Test Suite]">
+  <listeners>
+    <listener class-name="com.crm.utils.BaseListener"/>
+    <listener class-name="com.crm.utils.TestNGCustomReportListener"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Accounts Creation Test(failed)">
+    <classes>
+      <class name="com.crm.testscripts.AdminTest2">
+        <methods>
+          <include name="init"/>
+          <include name="createContactusingcsvfile"/>
+        </methods>
+      </class> <!-- com.crm.testscripts.AdminTest2 -->
+    </classes>
+  </test> <!-- Accounts Creation Test(failed) -->
+</suite> <!-- Failed suite [ My Test Suite] -->

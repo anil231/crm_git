@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 46.8 s <<< FAILURE! - in TestSuite
+createContactusingcsvfile(com.crm.testscripts.AdminTest2)  Time elapsed: 30.099 s  <<< FAILURE!
+java.lang.AssertionError: lists don't have the same size expected [8] but found [16]
+	at com.crm.testscripts.AdminTest2.createContactusingcsvfile(AdminTest2.java:44)
+
